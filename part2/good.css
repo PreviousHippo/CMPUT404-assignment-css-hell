@@ -1,0 +1,46 @@
+@@charset "UTF-8";
+body{
+  font-family: "American Typewriter", Times, serif;
+  margin-bottom: 5%;
+  margin-right: 5%;
+  margin-left: 5%;
+
+}
+h1,h2,h3,h4,h5,h6{
+  font-weight: bold;
+  text-align: center;
+  font-size: 200%;
+  margin-left: 5%;
+  margin-right: 5%;
+  text-decoration: underline
+}
+div.sidebar{
+  font-size: 100%;
+  background-color: grey;
+  text-align: center;
+  height: 100%;
+  margin-left: 75%;
+  position: fixed;
+  right: 100;
+  padding-top: 10px;
+  padding-right: 20px;
+  padding-bottom: 10px;
+  padding-left: 20px;
+
+}
+
+div.content{
+  font-family: "American Typewriter", Times, serif;
+  text-align: center;
+  margin-right: 30%;
+  padding-top: 10px;
+  padding-right: 30px;
+  padding-bottom: 50px;
+  padding-left: 80px;
+
+
+}
+
+div.footer{
+  text-align: center;
+}
